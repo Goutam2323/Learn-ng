@@ -1,0 +1,11 @@
+.card {
+  margin: auto;
+  width: 70%;
+}
+.card-header {
+  font-size: 1.8rem;
+}
+img {
+  mix-blend-mode: multiply;
+  width: 100px;
+}
